@@ -33,14 +33,17 @@ Run as root to install for all users.
 
 # Colors
 
-+ Human Earth `#ff7800` to `#672c00`
-+ Happy Frog `#beff20` to `#3b7400`
-+ Ice Princess `#5de0ff` to `#0094af`
-+ Wild Serengeti `#ffb000` to `#ff7100`
-+ Pitch Black `#292929` to `#000000`
-+ Snow White `#ffffff` to `#ebebeb`
-+ Summer Wine `#ed0f00` to `#740000`
-+ Purple Gem `#ff0082` tom `#420046`
++ Azure Ocean `#edd400 #da9800`
++ Breezy Forest `#00c2a6 #008c6f`
++ Golden Sunshine `#edd400 #da9800`
++ Human Earth `#ff7800 #672c00`
++ Happy Frog `#beff20 #3b7400`
++ Ice Princess `#5de0ff #0094af`
++ Wild Serengeti `#ffb000 #ff7100`
++ Pitch Black `#292929 #000000`
++ Snow White `#ffffff #ebebeb`
++ Summer Wine `#ed0f00 #740000`
++ Purple Gem `#ff0082 #420046`
 
 
 
