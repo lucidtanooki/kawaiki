@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16.000057"
    id="svg7384"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-documents-symbolic.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="folder-documents-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title4176">Kawaiki Icon Theme</title>
   <sodipodi:namedview
@@ -26,19 +26,20 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="968"
+     inkscape:window-width="2560"
+     inkscape:window-height="1352"
      id="namedview16"
      showgrid="true"
      inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:zoom="32"
-     inkscape:cx="6.223848"
-     inkscape:cy="10.88767"
+     inkscape:cx="6.21875"
+     inkscape:cy="10.875"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384">
+     inkscape:current-layer="svg7384"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2993"
@@ -120,34 +121,34 @@
      id="g3791"
      transform="translate(-101.0002,-217)" />
   <path
-     style="fill:#d3d7cf;stroke:none"
+     style="fill:#b3b3b3;stroke:none;fill-opacity:1"
      d="M 2,0 2,16 14,16 14,4 10,0 z m 1,1 6,0 0,4 4,0 0,10 -10,0 z m 9,3 -2,0 0,-2 z"
      id="path4199"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccc" />
   <rect
-     style="opacity:1;fill:#d3d7cf;stroke:none"
+     style="opacity:1;fill:#b3b3b3;stroke:none;fill-opacity:1"
      id="rect4204"
      width="4"
      height="1"
      x="4"
      y="2.0000572" />
   <rect
-     style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:none"
      id="rect4206"
      width="7"
      height="1"
      x="4"
      y="6.0000572" />
   <rect
-     style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:none"
      id="rect4208"
      width="7"
      height="1"
      x="4"
      y="8.0000572" />
   <rect
-     style="fill:#d3d7cf;fill-opacity:1;stroke:none"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:none"
      id="rect4210"
      width="4"
      height="1"

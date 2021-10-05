@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="user-trash-symbolic.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="user-trash-full-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -887,18 +887,19 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="44.8"
-     inkscape:cx="8.0280945"
-     inkscape:cy="8.4069038"
+     inkscape:cx="8.0357143"
+     inkscape:cy="9.3526786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="968"
+     inkscape:window-width="2560"
+     inkscape:window-height="1352"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -915,7 +916,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -925,10 +926,22 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="fill:#d3d7cf;fill-opacity:1;stroke:none"
-       d="M 8 0 C 5.2385763 0 3 1.3431458 3 3 L 3 13 C 3 14.6569 5.2385763 16 8 16 C 10.761424 16 13 14.6569 13 13 L 13 3 C 13 1.3431458 10.761424 -2.9605947e-16 8 0 z M 8 1 C 10.209139 1 12 1.8954305 12 3 C 12 4.1045695 10.209139 5 8 5 C 5.790861 5 4 4.1045695 4 3 C 4 1.8954305 5.790861 1 8 1 z "
+       id="path3382"
+       d="M 8,0 C 5.2385763,0 3,1.3431458 3,3 l 0,10 c 0,1.6569 2.2385763,3 5,3 2.761424,0 5,-1.3431 5,-3 L 13,3 C 13,1.3431458 10.761424,0 8,0 z"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;opacity:0.15"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss"
+       transform="translate(0,1036.3622)" />
+    <path
+       style="opacity:0.75;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="path3380"
        transform="translate(0,1036.3622)"
-       id="path3142" />
+       d="M 12,6 A 4,3 0 1 1 4,6 4,3 0 1 1 12,6 z"
+       sodipodi:type="arc"
+       sodipodi:ry="3"
+       sodipodi:rx="4"
+       sodipodi:cy="6"
+       sodipodi:cx="8" />
     <rect
        style="opacity:0.25;fill:#d3d7cf;fill-opacity:1;stroke:none"
        id="rect3164"
@@ -940,21 +953,9 @@
        rx="1"
        ry="1" />
     <path
-       sodipodi:type="arc"
-       style="opacity:0.75;fill:#d3d7cf;fill-opacity:1;stroke:none"
-       id="path3380"
-       sodipodi:cx="8"
-       sodipodi:cy="6"
-       sodipodi:rx="4"
-       sodipodi:ry="3"
-       d="M 12,6 A 4,3 0 1 1 4,6 4,3 0 1 1 12,6 z"
-       transform="translate(0,1036.3622)" />
-    <path
-       id="path3382"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       d="M 8 0 C 5.2385763 0 3 1.3431458 3 3 L 3 13 C 3 14.6569 5.2385763 16 8 16 C 10.761424 16 13 14.6569 13 13 L 13 3 C 13 1.3431458 10.761424 -2.9605947e-16 8 0 z M 8 1 C 10.209139 1 12 1.8954305 12 3 C 12 4.1045695 10.209139 5 8 5 C 5.790861 5 4 4.1045695 4 3 C 4 1.8954305 5.790861 1 8 1 z "
        transform="translate(0,1036.3622)"
-       d="M 8,0 C 5.2385763,0 3,1.3431458 3,3 l 0,10 c 0,1.6569 2.2385763,3 5,3 2.761424,0 5,-1.3431 5,-3 L 13,3 C 13,1.3431458 10.761424,0 8,0 z"
-       style="fill:#d3d7cf;fill-opacity:1;stroke:none;opacity:0.15"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssss" />
+       id="path3142" />
   </g>
 </svg>

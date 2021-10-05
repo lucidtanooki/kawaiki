@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="folder-symbolic.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="folder-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -878,6 +878,47 @@
          offset="1"
          id="stop4220-10-1-2" />
     </linearGradient>
+    <linearGradient
+       id="linearGradient3785-6">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3787-4" />
+      <stop
+         style="stop-color:#d6d6d6;stop-opacity:1;"
+         offset="1"
+         id="stop3789-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3802-3">
+      <stop
+         style="stop-color:#ffc475;stop-opacity:1;"
+         offset="0"
+         id="stop3804-4" />
+      <stop
+         style="stop-color:#ff004a;stop-opacity:1;"
+         offset="1"
+         id="stop3806-1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3802-3"
+       id="radialGradient3852"
+       cx="153.60025"
+       cy="1046.2241"
+       fx="153.60025"
+       fy="1046.2241"
+       r="7.5"
+       gradientTransform="matrix(1.6666654,-3.5764157e-7,3.5147543e-7,1.5999884,-101.0006,-626.5843)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4405">
+      <path
+         id="path4407"
+         style="opacity:0.8;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:0.416667;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 4,936.36218 c -2.2159999,0 -4,1.784 -4,4 v 8 28 c 0,-2.216 1.7840001,-4 4,-4 H 22.666016 25.333984 40 c 7.999998,0 8.000003,-8 16,-8 h 68 c 2.216,0 4,1.784 4,4 v -20 c 0,-2.216 -1.784,-4 -4,-4 H 53.333984 c -10.666667,0 -10.667318,-8 -21.333984,-8 z" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -886,19 +927,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="4.8644849"
-     inkscape:cy="10.782461"
+     inkscape:zoom="30.664449"
+     inkscape:cx="9.3267616"
+     inkscape:cy="4.9894913"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1020"
-     inkscape:window-height="544"
+     inkscape:window-width="2560"
+     inkscape:window-height="1352"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -915,7 +957,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -924,25 +966,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
-    <rect
-       style="fill:#b3b3b3;stroke:none"
-       id="rect4020"
-       width="14"
-       height="16"
-       x="1"
-       y="0"
-       transform="translate(0,1036.3622)"
-       rx="1"
-       ry="1" />
-    <rect
-       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
-       id="rect4022"
-       width="4"
-       height="5"
-       x="12"
-       y="2"
-       transform="translate(0,1036.3622)"
-       rx="1"
-       ry="1" />
+    <path
+       id="back"
+       d="m 0.5,1037.3622 c -0.277,0 -0.5,0.223 -0.5,0.5 v 1 11 c 0,0.277 0.223,0.5 0.5,0.5 h 15 c 0.277,0 0.5,-0.223 0.5,-0.5 v -11 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 H 6.666666 c -1.333333,0 -1.333333,-1 -2.666666,-1 z"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.0520834;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

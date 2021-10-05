@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16.000057"
    id="svg7384"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="drive-removable-media-symbolic.svg">
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="folder-videos-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title4176">Kawaiki Icon Theme</title>
   <sodipodi:namedview
@@ -26,19 +26,20 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="968"
+     inkscape:window-width="2560"
+     inkscape:window-height="1352"
      id="namedview16"
      showgrid="true"
      inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:zoom="22.627417"
-     inkscape:cx="2.6164551"
-     inkscape:cy="9.6516259"
+     inkscape:cx="2.6074563"
+     inkscape:cy="9.6343299"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384">
+     inkscape:current-layer="svg7384"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2993"
@@ -120,11 +121,11 @@
      id="g3791"
      transform="translate(-101.0002,-217)" />
   <path
-     style="opacity:1;fill:#d3d7cf;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none"
      d="M 1 0 L 1 16 L 4 16 C 4 15.446 4.446 15 5 15 L 11 15 C 11.554 15 12 15.446 12 16 L 15 16 L 15 0 L 14 0 L 14 1 L 13 1 L 13 0 L 12 0 L 12 4 C 12 4.554 11.554 5 11 5 L 5 5 C 4.446 5 4 4.554 4 4 L 4 0 L 3 0 L 3 1 L 2 1 L 2 0 L 1 0 z M 2 2 L 3 2 L 3 3 L 2 3 L 2 2 z M 13 2 L 14 2 L 14 3 L 13 3 L 13 2 z M 2 4 L 3 4 L 3 5 L 2 5 L 2 4 z M 13 4 L 14 4 L 14 5 L 13 5 L 13 4 z M 2 6 L 3 6 L 3 7 L 2 7 L 2 6 z M 5 6 L 11 6 C 11.554 6 12 6.446 12 7 L 12 13 C 12 13.554 11.554 14 11 14 L 5 14 C 4.446 14 4 13.554 4 13 L 4 7 C 4 6.446 4.446 6 5 6 z M 13 6 L 14 6 L 14 7 L 13 7 L 13 6 z M 2 8 L 3 8 L 3 9 L 2 9 L 2 8 z M 13 8 L 14 8 L 14 9 L 13 9 L 13 8 z M 2 10 L 3 10 L 3 11 L 2 11 L 2 10 z M 13 10 L 14 10 L 14 11 L 13 11 L 13 10 z M 2 12 L 3 12 L 3 13 L 2 13 L 2 12 z M 13 12 L 14 12 L 14 13 L 13 13 L 13 12 z M 2 14 L 3 14 L 3 15 L 2 15 L 2 14 z M 13 14 L 14 14 L 14 15 L 13 15 L 13 14 z "
      id="rect3000" />
   <rect
-     style="fill:#d3d7cf;fill-opacity:1;stroke:none;opacity:0.15"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:none;opacity:0.15"
      id="rect3011"
      width="10"
      height="16"
